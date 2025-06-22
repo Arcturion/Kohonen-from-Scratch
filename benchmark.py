@@ -1,6 +1,6 @@
 import torch
-from pytorch_som import PyTorchSOM
-from triton_som import TritonSOM
+from pytorch_som import PyTorchSOM # Keep for baseline comparison
+from kohonen_triton import SOM as TritonSOM # Use the new library
 import time
 
 # --- Configuration ---
