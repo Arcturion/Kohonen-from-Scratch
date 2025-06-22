@@ -1,5 +1,5 @@
 import torch
-from kohonen import SOM # Import the SOM class from our new library
+from kohonen import SOM
 
 def run_som_example():
     """
