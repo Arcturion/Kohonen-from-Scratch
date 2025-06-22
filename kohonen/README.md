@@ -117,5 +117,6 @@ print(f"\nQuantization Error: {q_error:.4f}")
 (Details to be added if the project becomes open source)
 
 ## License
-(To be determined - likely MIT or Apache 2.0 if open-sourced)
+```
+No License, use it as you want. If you found this codebase helpful just write the credit
 ```
